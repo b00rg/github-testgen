@@ -1,2 +1,2 @@
-# gitlab-testgen
+# github-testgen
 GitHub Automated Test Generation 
