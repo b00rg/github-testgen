@@ -1,2 +1,2 @@
-# github-testgen
-GitHub Automated Test Generation 
+# test-gen
+Automated Test Generation 
